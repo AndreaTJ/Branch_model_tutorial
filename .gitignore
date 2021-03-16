@@ -1,0 +1,11 @@
+environments/production/.terraform
+environments/production/.terraform.lock.hcl
+environments/production/productionplan
+environments/production/terraform.tfstate
+environments/production/terraform.tfstate.backup
+environments/staging/.terraform
+environments/staging/.terraform.lock.hcl
+environments/staging/stagingplan
+environments/staging/terraform.tfstate
+environments/staging/terraform.tfstate.backup
+
